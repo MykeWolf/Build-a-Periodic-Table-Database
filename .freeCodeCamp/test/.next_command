@@ -1,0 +1,5 @@
+git remote set-url origin https://github.com/MykeWolf/Build-a-Periodic-Table-Database.git
+git branch -M main
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git add .
